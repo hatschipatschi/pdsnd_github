@@ -28,6 +28,11 @@ The following statistics are calculated:
 -- User Types
 -- Gender
 
+### Python packages required
+- time
+- pandas
+- sys
+
 ### Files used
 chicago.csv
 new_york_city
