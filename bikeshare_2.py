@@ -257,7 +257,7 @@ def user_stats(df):
 def display_raw_data(df):
     """ Disyplay 5 rows of the raw data files """
     i = 0
-    raw = input("Would you like to see the content of the raw data file?\n").lower() 
+    raw = input("Would you like to see the content of the raw data file? Choose yes or no.\n").lower() 
     pd.set_option('display.max_columns',200)
     
     while True:            
