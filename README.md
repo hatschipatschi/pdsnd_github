@@ -39,5 +39,4 @@ new_york_city
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits go out to Udacity for providing the three datasets of the US bike rental company. 
